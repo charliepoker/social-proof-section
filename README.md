@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/charliepoker/social-proof-section)
-- Live Site URL: [Add live site URL here](https://social-proof-section-gules-xi.vercel.app/)
+- Solution URL: [https://github.com/charliepoker/social-proof-section](https://github.com/charliepoker/social-proof-section)
+- Live Site URL: [https://social-proof-section-gules-xi.vercel.app/](https://social-proof-section-gules-xi.vercel.app/)
 
 ## My process
 
